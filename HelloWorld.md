@@ -1,4 +1,4 @@
 ## This is a markdown file
-1. *Really*
+1. Really
 +Really
 +Really
